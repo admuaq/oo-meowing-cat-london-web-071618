@@ -1,3 +1,4 @@
+require 'Pry'
 ## code your solution here. 
 class Cat 
   
