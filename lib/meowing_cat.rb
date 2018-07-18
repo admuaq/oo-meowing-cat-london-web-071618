@@ -8,3 +8,7 @@ class Cat
   end 
   
 end 
+
+binding.pry
+
+puts "end of file"
